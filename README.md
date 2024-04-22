@@ -1,4 +1,4 @@
-# Sistema_Navegacion
+# Sistema de navegacion y algoritmo 
 
 
 pasos a seguir 
