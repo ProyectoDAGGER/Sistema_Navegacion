@@ -4,6 +4,14 @@
 ## CERLAB UAV Autonomy Framework
 
 Este framework fue desarrollado por el CERLAB del CMU. Desde 2021, este equipo ha trabajado en el Laboratorio de Ingeniería Computacional y Robótica (CERLAB) de la Universidad Carnegie Mellon. Esun equipo compuesto entre 5 y 15 estudiantes de posgrado, se enfoca en el desarrollo de algoritmos para abordar proyectos industriales reales utilizando su experiencia en tecnología UAV. Se especializan en tareas como inspección de túneles, mapeo de sitios de construcción e inspección de marcos de ventanas. Trabajan en estrecha colaboración con destacados socios industriales, como YKK AP Inc., Obayashi Corporation y TOPRISE CO., LTD, para proporcionar soluciones innovadoras que satisfagan las necesidades específicas de los clientes. Con un enfoque centrado en la tecnología y la innovación, el objetivo del equipo es desarrollar algoritmos avanzados que impulsen la eficiencia y la precisión en una variedad de aplicaciones industriales clave.
+
+<p align="center">
+  <img src="[https://github.com/ProyectoDAGGER/Sistema_Navegacion/assets/163484218/ee80732c-583d-4902-9ba3-b0de88acfd1a](https://github.com/ProyectoDAGGER/Sistema_Navegacion/assets/163484218/210e8e8a-85eb-40ad-b276-12d4bcbd5127)" alt="image">
+  <br>
+  <em>Figura 2: Diagrama de flujo de identificación de objetos dinámicos con inteligencia artificial [1], p. 3 </em>
+</p>
+
+
 Ahora se explicará el proceso de instalación de este framework, primero se dan los requisitos de la máquina antes de la instalación del framework.
 
 Ubuntu 18.04 ó Ubuntu 20.04.
@@ -102,4 +110,5 @@ Antes de inicializar rosmon, se debe ejecutar ros de la raiz.
 source /opt/ros/noetic/setup.bash
 ````
 ## Referencias
+[1] Zhefan Xu*, Christopher Suzuki*, Xiaoyang Zhan, Kenji Shimada, "Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments”, IEEE International Conference on Robotics and Automation (ICRA), 2024.
 [2] Quan, L., Yin, L., Zhang, T., Wang, M., Wang, R., Zhong, S., Xin, Z., Cao, Y., Xu, C., & Gao, F. (2023). "Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments." IEEE Transactions on Robotics, Accepted. [Online]. Available: https://doi.org/10.48550/arXiv.2210.04048
