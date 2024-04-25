@@ -111,4 +111,6 @@ source /opt/ros/noetic/setup.bash
 ````
 ## Referencias
 [1] Zhefan Xu*, Christopher Suzuki*, Xiaoyang Zhan, Kenji Shimada, "Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments”, IEEE International Conference on Robotics and Automation (ICRA), 2024.
+
+
 [2] Quan, L., Yin, L., Zhang, T., Wang, M., Wang, R., Zhong, S., Xin, Z., Cao, Y., Xu, C., & Gao, F. (2023). "Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments." IEEE Transactions on Robotics, Accepted. [Online]. Available: https://doi.org/10.48550/arXiv.2210.04048
