@@ -58,12 +58,13 @@ catkin build
 
 Ego-Planner-Swarm es un avanzado planificador de enjambres de robots que integra el optimizador EGO (Mejora Esperada con Proceso Gaussiano) con tecnología para la generación de trayectorias topológicas implícitas, lo que resulta en una planificación y optimización de trayectorias eficientes en tiempo real. Este algoritmo es especialmente útil para abordar diversas tareas complejas que involucran grupos de robots, como manejo colaborativo, búsqueda y rescate, entre otras.
 El enfoque fundamental de Ego-Planner-Swarm radica en la utilización inicial del optimizador EGO para generar un conjunto de trayectorias preliminares, seguido por el refinamiento y la mejora de estas trayectorias mediante la tecnología de generación de trayectorias topológicas implícitas. Durante este proceso de optimización, el algoritmo considera cuidadosamente las restricciones dinámicas, cinemáticas y ambientales de los robots para garantizar que las trayectorias resultantes sean factibles y efectivas en el entorno operativo.
-Se observa el diagrama de flujo del sistema de navegación de los drones en un enjambre utilizando odometría visual-inercial (VIO):
+
 <p align="center">
   <img src="https://github.com/ProyectoDAGGER/Sistema_Navegacion/assets/163484218/ee80732c-583d-4902-9ba3-b0de88acfd1a" alt="image">
   <br>
-  <em>Pie de página: Esta es una imagen de ejemplo.</em>
+  <em>Figura 2: Diagrama de flujo del sistema de navegación de los drones en un enjambre utilizando odometría visual-inercial (VIO) [2], p. 4 </em>
 </p>
+
 
 Ahora se explicará el proceso de instalación de este framework, primero se dan los requisitos de la máquina antes de la instalación del framework.
 Ubuntu 16.04, Ubuntu 18.04 y Ubuntu 20.04.
@@ -100,3 +101,5 @@ Antes de inicializar rosmon, se debe ejecutar ros de la raiz.
 ````
 source /opt/ros/noetic/setup.bash
 ````
+## Referencias
+[2] Quan, L., Yin, L., Zhang, T., Wang, M., Wang, R., Zhong, S., Xin, Z., Cao, Y., Xu, C., & Gao, F. (2023). "Robust and Efficient Trajectory Planning for Formation Flight in Dense Environments." IEEE Transactions on Robotics, Accepted. [Online]. Available: https://doi.org/10.48550/arXiv.2210.04048
