@@ -9,7 +9,7 @@ Este framework fue desarrollado por el CERLAB del CMU. Desde 2021, este equipo h
 ![image](https://github.com/ProyectoDAGGER/Sistema_Navegacion/assets/163484218/83842c5d-db82-4f10-96ea-28afe4fc7b0e)
 
 <p align="center">
-  <img src="[https://github.com/ProyectoDAGGER/Sistema_Navegacion/assets/163484218/ee80732c-583d-4902-9ba3-b0de88acfd1a](https://github.com/ProyectoDAGGER/Sistema_Navegacion/assets/163484218/210e8e8a-85eb-40ad-b276-12d4bcbd5127)" alt="image">
+  <img src="[https://github.com/ProyectoDAGGER/Sistema_Navegacion/assets/163484218/83842c5d-db82-4f10-96ea-28afe4fc7b0e](https://github.com/ProyectoDAGGER/Sistema_Navegacion/assets/163484218/83842c5d-db82-4f10-96ea-28afe4fc7b0e)" alt="image">
   <br>
   <em>Figura 2: Diagrama de flujo de identificación de objetos dinámicos con inteligencia artificial [1], p. 3 </em>
 </p>
